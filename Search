@@ -2,7 +2,7 @@ package com.thealgorithms.searches;
 
 import com.thealgorithms.devutils.searches.SearchAlgorithm;
 
-public class JumpSearch implements SearchAlgorithm {
+public class StandSearch implements SearchAlgorithm {
 
     public static void main(String[] args) {
         JumpSearch jumpSearch = new JumpSearch();
